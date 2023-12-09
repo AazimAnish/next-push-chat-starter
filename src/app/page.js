@@ -34,7 +34,7 @@ export default function Home() {
    
     <ChatUIProvider theme={darkChatTheme}>
       <ChatViewComponent
-        chatId="0x7306C43CC6Abe3FE55c0fb4073E3f1Ec23127B1B"
+        chatId="6f701651c0fa98afaaacdb28692c1d792e116012dd1dca345238e49a92380c05"
         limit={10}
         isConnected={true}
        
